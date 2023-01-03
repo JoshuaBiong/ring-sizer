@@ -1,16 +1,14 @@
 # ringsizer
 
-A new Flutter project.
+Ringsizer
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project is for fun only it about measuring the diameter of the ring 
+it helps someone who does not know whats thier ring size is 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/119698107/210405242-1c958fb4-b9ed-4f99-877c-0e62e39575e6.mp4
+
