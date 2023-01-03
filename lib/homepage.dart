@@ -9,8 +9,13 @@ class Homepage extends StatefulWidget {
 
 class _HomepageState extends State<Homepage> {
   double _value = 50;
+  bool changing = false;
 
-  void ringsizer() {}
+  void changeColor() {
+    if (_value > 100) {
+      changing != changing;
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
